@@ -1,0 +1,8 @@
+matplotlib
+numpy
+scipy
+sklearn
+requests
+bs4
+facebook
+python-dateutil
